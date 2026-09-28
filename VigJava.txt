@@ -14,3 +14,5 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
+
+This program demonstrates a basic Java Hello World program.
